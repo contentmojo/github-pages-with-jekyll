@@ -1,5 +1,5 @@
 ---
-title: "Dependabot Campaign Tier One Report"
+title: Dependabot Campaign Tier One Report
 date: 2022-03-30
 ---
 
