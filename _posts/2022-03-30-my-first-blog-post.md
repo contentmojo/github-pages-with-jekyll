@@ -1,3 +1,8 @@
+---
+title: "Dependabot Campaign Tier One Report"
+date: 2022-03-30
+---
+
 # Dependabot Campaign Tier One Report
 **Teams Involved:** Brand Content, Marketing Campaign Management
 **Channels:** LinkedIn Ad, Landing Page, Email Campaign, Blog Post
